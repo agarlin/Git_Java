@@ -17,4 +17,4 @@ branch
 remove branch
 reset
 merge
-rebase
+
